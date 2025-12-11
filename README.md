@@ -31,5 +31,5 @@ Framework,Flutter / Android Native / React Native,Platform used for building the
 Location Services,Google Maps SDK,Used for displaying and navigating to the center's location.
 Backend/Database,Firebase / Custom API,Used for storing service details and news articles.
 
-<img width="704" height="1472" alt="Gemini_Generated_Image_glbcf8glbcf8glbc" src="https://github.com/user-attachments/assets/ec02eb9c-5a4f-4eca-8663-82ec385dc5a7" />
 
+<img width="704" height="1472" alt="Gemini_Generated_Image_l11i2rl11i2rl11i" src="https://github.com/user-attachments/assets/0cb44eb1-4bda-4930-8011-4d2f1dc7ab70" />
